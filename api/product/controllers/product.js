@@ -13,7 +13,7 @@ module.exports = {
         console.log("data" , data);
         return await ctx.render("products2_xx", {
             data,
-            title: "shop products",
+            title: "Crown Clothing 2021",
         });
     },
 
